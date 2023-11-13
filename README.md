@@ -18,6 +18,11 @@ Pass the details of student to the function.
 File has been created and written with student details.
 
 ## Program:
+
+```
+Developed By: Manoj Kumar S
+Reg No: 212221230056
+```
 ```c#
 using System;
 using System.IO;
